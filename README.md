@@ -107,7 +107,8 @@ Mission-critical mobile and web applications engineered with reactive state mana
 Enterprise cloud infrastructure across AWS, GCP, Azure, and bare-metal environments built for multi-region failover, elastic autoscaling, and zero single points of failure.
 - **Key Deliverables:** Multi-region active-active topologies with BGP Anycast routing, 100% declarative IaC (Terraform/OpenTofu), automated chaos drills, and distributed consensus database replication (CockroachDB, Raft).
 - **Benchmarks:** `99.999%` Production Uptime • `< 60s` RPO/RTO • `-38%` Cloud Spend Optimized.
-- 
+
+---
 
 ## 🔄 The Flow of Work (6 Phased Lifecycle)
 
