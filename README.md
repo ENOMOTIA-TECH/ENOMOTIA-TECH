@@ -173,16 +173,14 @@ Our culture is rooted in ancient Spartan operational doctrine:
 > *"The code no client will ever read is the truest test of your craft."*  
 > — The Standard of Unwitnessed Work (✓ In Craft & Discipline)
 
-Read the full text in [the creed.md](https://github.com/ENOMOTIA-TECH/Enomotia/blob/main/The%20Creed.md).
+Read the full text in [The Creed](https://github.com/ENOMOTIA-TECH/Enomotia/blob/main/The%20Creed.md).
 
 ---
 
 ## ⚖️ Legal & Compliance Transparency
 
-- **Terms and Conditions:** [policies/terms.md](https://github.com/ENOMOTIA-TECH/Policies/blob/main/Terms.md)
-- **Privacy & Cookie Policies:** [[policies/policies.md](policies/policies.md](https://github.com/ENOMOTIA-TECH/Policies/blob/main/Terms.md))
-- **Standalone Privacy Policy:** [policies/privacy.md]([policies/privacy.md](https://github.com/ENOMOTIA-TECH/Policies/blob/main/Privacy.md))
-- **Standalone Cookie Policy:** [policies/cookies.md]([policies/cookies.md](https://github.com/ENOMOTIA-TECH/Policies/blob/main/Cookies.md))
+- **Terms and Conditions:** [Terms.md](https://github.com/ENOMOTIA-TECH/Policies/blob/main/Terms.md)
+- **Standalone Privacy Policy:** [Privacy.md](https://github.com/ENOMOTIA-TECH/Policies/blob/main/Privacy.md))
 
 ---
 
