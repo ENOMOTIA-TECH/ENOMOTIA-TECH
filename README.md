@@ -107,44 +107,13 @@ Mission-critical mobile and web applications engineered with reactive state mana
 Enterprise cloud infrastructure across AWS, GCP, Azure, and bare-metal environments built for multi-region failover, elastic autoscaling, and zero single points of failure.
 - **Key Deliverables:** Multi-region active-active topologies with BGP Anycast routing, 100% declarative IaC (Terraform/OpenTofu), automated chaos drills, and distributed consensus database replication (CockroachDB, Raft).
 - **Benchmarks:** `99.999%` Production Uptime • `< 60s` RPO/RTO • `-38%` Cloud Spend Optimized.
-
----
-
-## 💻 Technology Stack & Infrastructure
-
-```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                          ENOMOTIA TECHNOLOGY MATRIX                         │
-├───────────────────────┬─────────────────────────────────────────────────────┤
-│ Cloud & Orchestration │ AWS, GCP, Azure, Equinix Metal, Kubernetes, Docker, │
-│                       │ OpenTofu, Terraform, ArgoCD, Flux v2, Helm          │
-├───────────────────────┼─────────────────────────────────────────────────────┤
-│ Autonomous AI & ML    │ OpenAI, Anthropic Claude, Gemini, LangChain, vLLM,  │
-│                       │ TensorRT-LLM, LlamaIndex, Qdrant, Pinecone, LoRA    │
-├───────────────────────┼─────────────────────────────────────────────────────┤
-│ Systems & Languages   │ Rust, TypeScript, Python, Go, C/C++, Swift, Kotlin  │
-├───────────────────────┼─────────────────────────────────────────────────────┤
-│ Platform & Web        │ React 18, Vite 6, Next.js, Node.js, Tailwind CSS 3, │
-│                       │ tRPC, GraphQL, Protobuf, WebSockets, CRDTs          │
-├───────────────────────┼─────────────────────────────────────────────────────┤
-│ Security & Defense    │ HashiCorp Vault, gVisor, Firecracker, WireGuard,     │
-│                       │ Tailscale, eBPF, Open Policy Agent, Trivy, Cosign   │
-├───────────────────────┼─────────────────────────────────────────────────────┤
-│ Embedded & Firmware   │ FreeRTOS, Zephyr RTOS, ARM Cortex, ESP32, STM32,    │
-│                       │ RISC-V, Embedded Rust, QEMU, I2C, SPI, CAN bus      │
-├───────────────────────┼─────────────────────────────────────────────────────┤
-│ Databases & Storage   │ PostgreSQL, CockroachDB, Redis, SQLite, ClickHouse, │
-│                       │ MinIO, S3-compatible object storage                 │
-└───────────────────────┴─────────────────────────────────────────────────────┘
-```
-
----
+- 
 
 ## 🔄 The Flow of Work (6 Phased Lifecycle)
 
 Every project we undertake progresses through six deterministic gates:
 
-```mermaid
+```
 flowchart LR
     A["01. Audit"] --> B["02. Contract"]
     B --> C["03. Build"]
