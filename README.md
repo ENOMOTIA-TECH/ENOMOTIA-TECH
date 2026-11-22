@@ -114,7 +114,7 @@ Enterprise cloud infrastructure across AWS, GCP, Azure, and bare-metal environme
 Every project we undertake progresses through six deterministic gates:
 
 ```mermaid
-
+    flowchart LR
     A["01. Audit"] --> B["02. Contract"]
     B --> C["03. Build"]
     C --> D["04. Invariant Stress"]
