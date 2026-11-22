@@ -167,11 +167,7 @@ Whether you need to architect fault-tolerant multi-region topologies, deploy sel
 - **Grievance Officer:** Joji John (Proprietor)
 - **Response Commitment:** Telemetry acknowledged within 24–48 hours.
 
-<div align="centre">
-
-```text
-WE ENGINEER, NEVER ASSUME.
-© 2026 ENOMOTIA. ALL RIGHTS RESERVED.
-```
-
-</div>
+<p align="center">
+  <code>WE ENGINEER, NEVER ASSUME.</code><br>
+  © 2026 ENOMOTIA. ALL RIGHTS RESERVED.
+</p>
