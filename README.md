@@ -179,10 +179,10 @@ Read the full text in [the creed.md](the%20creed.md).
 
 ## ⚖️ Legal & Compliance Transparency
 
-- **Terms and Conditions:** [policies/terms.md](policies/terms.md)
-- **Privacy & Cookie Policies:** [policies/policies.md](policies/policies.md)
-- **Standalone Privacy Policy:** [policies/privacy.md](policies/privacy.md)
-- **Standalone Cookie Policy:** [policies/cookies.md](policies/cookies.md)
+- **Terms and Conditions:** [policies/terms.md](https://github.com/ENOMOTIA-TECH/Policies/blob/main/Terms.md)
+- **Privacy & Cookie Policies:** [[policies/policies.md](policies/policies.md](https://github.com/ENOMOTIA-TECH/Policies/blob/main/Terms.md))
+- **Standalone Privacy Policy:** [policies/privacy.md]([policies/privacy.md](https://github.com/ENOMOTIA-TECH/Policies/blob/main/Privacy.md))
+- **Standalone Cookie Policy:** [policies/cookies.md]([policies/cookies.md](https://github.com/ENOMOTIA-TECH/Policies/blob/main/Cookies.md))
 
 ---
 
