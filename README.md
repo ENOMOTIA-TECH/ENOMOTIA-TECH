@@ -180,7 +180,7 @@ Read the full text in [The Creed](https://github.com/ENOMOTIA-TECH/Enomotia/blob
 ## ⚖️ Legal & Compliance Transparency
 
 - **Terms and Conditions:** [Terms.md](https://github.com/ENOMOTIA-TECH/Policies/blob/main/Terms.md)
-- **Standalone Privacy Policy:** [Privacy.md](https://github.com/ENOMOTIA-TECH/Policies/blob/main/Privacy.md))
+- **Standalone Privacy Policy:** [Privacy.md](https://github.com/ENOMOTIA-TECH/Policies/blob/main/Privacy.md)
 
 ---
 
